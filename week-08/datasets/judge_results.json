@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Total revenue in 2025?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "717"
+    ],
+    "expected_result": null,
+    "answer": "Based on the provided context, there is no mention of Amazon's total revenue for 2025.",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 62] earned revenue as of December 31, 2024 was $24.6 billion, of which $17.4 billion was recognized as revenue during the year ended December 31, 2025 and our total unearned revenue as of December 31, 2025 was $25.0 billion. Included in \u201cOther long-term liabilities\u201d on our consolidated balance sheets was $6.5 billion and $\n[Amazon-2025-Annual-Report.pdf, page 68] is as follows (in millions): Year Ended December 31, 2026 $ 1,085 2027 962 2028 764 2029 690 2030 593 Thereafter 3,940 $ 8,034 57\n[Amazon-2025-Annual-Report.pdf, page 39]  (in millions): Year Ended December 31, 2024 2025 Net cash provided by (used in) operating activities $ 115,877 $ 139,514 Purchases of property and equipment, net of proceeds from sales and incentives (77,658) (128,320) Free cash flow $ 38,219 $ 11,194 Net cash provided by (used in) investing activities $ (94,342) $ (1",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "AWS revenue in 2024?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "108"
+    ],
+    "expected_result": null,
+    "answer": "AWS revenue increased from $91 billion in 2023 to $108 billion in 2024 (Amazon-2024-Annual-Report.pdf, page 2).",
+    "evidence": "[Amazon-2024-Annual-Report.pdf, page 2] Dear Shareholders: 2024 was a strong year for Amazon. Our total revenue grew 11% year-over-year (\u201cY oY\u201d) from $575B to $638B. By segment, North America revenue increased 10% Y oY from $353B to $387B, International revenue grew 9% Y oY from $131B to $143B, and A WS revenue increased 19% Y oY , from $91B to $108B. For pe\n[Amazon-2025-Annual-Report.pdf, page 81] millions): December 31, 2023 2024 2025 North America (1) $ 196,029 $ 210,120 $ 235,652 International (1) 69,718 69,487 81,984 AWS (2) 108,533 155,953 252,588 Corporate 153,574 189,334 247,818 Consolidated $ 527,854 $ 624,894 $ 818,042 ___________________ (1) North America and International segment assets primarily cons\n[Amazon-2024-Annual-Report.pdf, page 37] AWS sales increased 19% in 2024, compared to the prior year. The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer contracts. Operating Expenses Information about operating expenses is as follows (in millions): Year Ended December 31, 20",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "Operating income in 2024?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "68.6",
+      "68,593"
+    ],
+    "expected_result": null,
+    "answer": "Amazon's consolidated operating income in 2024 was $68,593 million (or $68.6 billion) ([Amazon-2025-Annual-Report.pdf, page 38]).",
+    "evidence": "[Amazon-2024-Annual-Report.pdf, page 39]  The increase in North America operating income in 2024, compared to the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and shipping costs. The International operating income in 2024, as compared to the operating loss in the prior year, is\n[Amazon-2025-Annual-Report.pdf, page 38] income by segment is as follows (in millions): Year Ended December 31, 2024 2025 Operating Income North America $ 24,967 $ 29,619 International 3,792 4,750 AWS 39,834 45,606 Consolidated $ 68,593 $ 79,975 Operating income was $68.6 billion and $80.0 billion for 2024 and 2025. Operating income for 2025 includes charges \n[Amazon-2024-Annual-Report.pdf, page 53]  in 2025 operating income of approximately $0.9 billion, which will be recorded primarily in \u201cFulfillment\u201d and impact our North America and International segments. We completed our most recent servers and networking equipment useful life study in Q4 2024, and are changing the useful lives of a subset of our servers and",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "Operating income in 2025?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "80",
+      "79,975"
+    ],
+    "expected_result": null,
+    "answer": "Amazon's operating income was $79,975 million (or approximately $80.0 billion) in 2025 ([Amazon-2025-Annual-Report.pdf, page 38]).",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 38] income by segment is as follows (in millions): Year Ended December 31, 2024 2025 Operating Income North America $ 24,967 $ 29,619 International 3,792 4,750 AWS 39,834 45,606 Consolidated $ 68,593 $ 79,975 Operating income was $68.6 billion and $80.0 billion for 2024 and 2025. Operating income for 2025 includes charges \n[Amazon-2024-Annual-Report.pdf, page 39]  The increase in North America operating income in 2024, compared to the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and shipping costs. The International operating income in 2024, as compared to the operating loss in the prior year, is\n[Amazon-2024-Annual-Report.pdf, page 53] decrease in 2025 operating income of approximately $0.7 billion. We expect to continue to acquire more of these server and networking assets in 2025. In 2024, we also determined, primarily in the fourth quarter, to retire early certain of our servers and networking equipment. We recorded approximately $920 million of a",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "AWS revenue in 2025?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "129",
+      "128,725"
+    ],
+    "expected_result": null,
+    "answer": "AWS generated $252,588 million in segment assets (or $155,953 million in 2024 as noted across reports) ([Amazon-2025-Annual-Report.pdf, page 81]). *(Note: For specific AWS net sales/revenue in 2024, AWS revenue was $108 billion according to [Amazon-2024-Annual-Report.pdf, page 2], but exact 2025 revenue figures are not explicitly detailed as net sales in the provided text excerpts).*",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 81] millions): December 31, 2023 2024 2025 North America (1) $ 196,029 $ 210,120 $ 235,652 International (1) 69,718 69,487 81,984 AWS (2) 108,533 155,953 252,588 Corporate 153,574 189,334 247,818 Consolidated $ 527,854 $ 624,894 $ 818,042 ___________________ (1) North America and International segment assets primarily cons\n[Amazon-2024-Annual-Report.pdf, page 2] Dear Shareholders: 2024 was a strong year for Amazon. Our total revenue grew 11% year-over-year (\u201cY oY\u201d) from $575B to $638B. By segment, North America revenue increased 10% Y oY from $353B to $387B, International revenue grew 9% Y oY from $131B to $143B, and A WS revenue increased 19% Y oY , from $91B to $108B. For pe\n[Amazon-2024-Annual-Report.pdf, page 37] AWS sales increased 19% in 2024, compared to the prior year. The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer contracts. Operating Expenses Information about operating expenses is as follows (in millions): Year Ended December 31, 20",
+    "tool_result": null,
+    "scores": {
+      "correctness": 2,
+      "grounding": 3,
+      "citations": 3
+    }
+  },
+  {
+    "question": "How did North America revenue change in 2025?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "426",
+      "387"
+    ],
+    "expected_result": null,
+    "answer": "North America revenue increased from $387 billion in 2024 to $426 billion in 2025, representing a 10% year-over-year increase (Amazon-2025-Annual-Report.pdf, page 8).",
+    "evidence": "[Amazon-2024-Annual-Report.pdf, page 39]  The increase in North America operating income in 2024, compared to the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and shipping costs. The International operating income in 2024, as compared to the operating loss in the prior year, is\n[Amazon-2025-Annual-Report.pdf, page 35] duced North America net sales by $454 million in 2025. International sales increased 13% in 2025, compared to the prior year. The sales growth primarily reflects increased unit sales, including sales by third-party sellers, advertising sales, and subscription services. Increased unit sales were driven largely 24\n[Amazon-2025-Annual-Report.pdf, page 8] Parting thoughts. Amazon had another strong year in 2025. Amazon\u2019s revenue in 2025 grew 12% year-over-year (\u201cY oY\u201d) from $638 billion to $717 billion. By segment, North America revenue increased 10% Y oY from $387 billion to $426 billion, International revenue grew 13% Y oY from $143 billion to $162 billion, and A WS r",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "What happened to free cash flow in 2025?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "38",
+      "11"
+    ],
+    "expected_result": null,
+    "answer": "Based on the provided context, free cash flow is defined as cash flow from operations reduced by \"Purchases of property and equipment, net of proceeds from sales and incentives,\" and a reconciliation for this measure is provided for the years 2024 and 2025 ([Amazon-2025-Annual-Report.pdf, page 39]). However, the specific monetary values for free cash flow in 2025 are not included in the provided text.",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 39]  may change over time. Therefore, we believe it is important to view free cash flow only as a complement to our entire consolidated statements of cash flows. 28\n[Amazon-2025-Annual-Report.pdf, page 39] from operations reduced by \u201cPurchases of property and equipment, net of proceeds from sales and incentives.\u201d The following is a reconciliation of free cash flow to the most comparable GAAP cash flow measure, \u201cNet cash provided by (used in) operating activities,\u201d for 2024 and 2025 (in millions): Year Ended December 31, \n[Amazon-2024-Annual-Report.pdf, page 35] 23 and 2024. Cash inflows from financing activities resulted from proceeds from short-term debt, and other and long-term-debt of $18.1 billion and $5.1 billion in 2023 and 2024. Cash outflows from financing activities resulted from payments of short-term debt, and other, long- term debt, finance leases, and financing o",
+    "tool_result": null,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "What caused the decrease in free cash flow?",
+    "expected_route": "rag",
+    "expected_terms": [
+      "property",
+      "equipment"
+    ],
+    "expected_result": null,
+    "answer": "Amazon's free cash flow is defined as cash flow from operations reduced by \"Purchases of property and equipment, net of proceeds from sales and incentives\" (Amazon-2024-Annual-Report.pdf, page 40).",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 39]  may change over time. Therefore, we believe it is important to view free cash flow only as a complement to our entire consolidated statements of cash flows. 28\n[Amazon-2024-Annual-Report.pdf, page 40] n the impact of acquiring property and equipment with cash and through finance leases and financing obligations. Free Cash Flow Free cash flow is cash flow from operations reduced by \u201cPurchases of property and equipment, net of proceeds from sales and incentives.\u201d The following is a reconciliation of free cash flow to \n[Amazon-2024-Annual-Report.pdf, page 19]  and the resultant negative impact on cash flow; \u2022 laws and regulations regarding privacy, data use, data protection, data security, data localization, network security, consumer protection, payments, advertising, and restrictions on pricing or discounts; \u2022 lower levels of use of the internet; \u2022 lower levels of consume",
+    "tool_result": null,
+    "scores": {
+      "correctness": 2,
+      "grounding": 3,
+      "citations": 3
+    }
+  },
+  {
+    "question": "Revenue increase from 2024 to 2025?",
+    "expected_route": "tool",
+    "expected_terms": [
+      "638",
+      "717"
+    ],
+    "expected_result": 79,
+    "answer": "Amazon's revenue increased from $638 billion in 2024 to $717 billion in 2025, a 12% year-over-year increase of $79 billion (*Amazon-2025-Annual-Report.pdf*, page 8).",
+    "evidence": "[Amazon-2025-Annual-Report.pdf, page 8] Parting thoughts. Amazon had another strong year in 2025. Amazon\u2019s revenue in 2025 grew 12% year-over-year (\u201cY oY\u201d) from $638 billion to $717 billion. By segment, North America revenue increased 10% Y oY from $387 billion to $426 billion, International revenue grew 13% Y oY from $143 billion to $162 billion, and A WS r\n[Amazon-2025-Annual-Report.pdf, page 34] th of which we expect to increase in 2026. We made cash payments, net of acquired cash, related to acquisition and other investment activity of $7.1 billion and $3.8 billion in 2024 and 2025, which primarily reflect investments in convertible notes from Anthropic, PBC (\u201cAnthropic\u201d), including $2.7 billion we invested i\n[Amazon-2025-Annual-Report.pdf, page 65] and $3.3 billion for 2023, 2024, and 2025. 54",
+    "tool_result": 79,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  },
+  {
+    "question": "AWS percentage revenue increase?",
+    "expected_route": "tool",
+    "expected_terms": [
+      "108",
+      "129"
+    ],
+    "expected_result": 19.4444444444,
+    "answer": "AWS sales increased 19% in 2024, compared to the prior year, with revenue increasing from $91 billion to $108 billion ([Amazon-2024-Annual-Report.pdf, page 2, 37]).",
+    "evidence": "[Amazon-2024-Annual-Report.pdf, page 37] AWS sales increased 19% in 2024, compared to the prior year. The sales growth primarily reflects increased customer usage, partially offset by pricing changes primarily driven by long-term customer contracts. Operating Expenses Information about operating expenses is as follows (in millions): Year Ended December 31, 20\n[Amazon-2025-Annual-Report.pdf, page 8] $143 billion to $162 billion, and A WS revenue increased 20% Y oY , from $108 billion to $129 billion. Amazon\u2019s operating income in 2025 improved 17% Y oY , from $69 billion (an operating margin of 10.8%) to $80 billion (an operating margin of 11.2%). Free Cash Flow decreased from $38 billion to $11 billion, driven pri\n[Amazon-2024-Annual-Report.pdf, page 2] ed 19% Y oY , from $91B to $108B. For perspective, just 10 years ago, A WS revenue was $4.6B; and in that same year, Amazon\u2019s total revenue was $89B. Amazon\u2019s operating income in 2024 improved 86% Y oY , from $36.9B (an operating margin of 6.4%) to $68.6B (an operating margin of 10.8%). Free Cash Flow, adjusted for equ",
+    "tool_result": 19.444444444444446,
+    "scores": {
+      "correctness": 5,
+      "grounding": 5,
+      "citations": 5
+    }
+  }
+]
